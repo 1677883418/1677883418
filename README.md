@@ -16,4 +16,11 @@
 ![1677883418's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Java         7 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   36.13 % 
+Bash         4 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+C            2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+JavaScript   2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+WXML         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+```
+<!--END_SECTION:waka-->
