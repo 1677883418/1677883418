@@ -73,7 +73,7 @@ Linux                    9 hrs 33 mins       ███████████�
 
 ![Chart not found](https://raw.githubusercontent.com/1677883418/1677883418/master/charts/bar_graph.png) 
 
-
+<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1677883418&theme=tokyonight&show_icons=true" />
  Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
@@ -90,5 +90,5 @@ Linux                    9 hrs 33 mins       ███████████�
 
 ### 👨‍💻 GitHub统计/Open source work stats
 
-![1677883418's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=1677883418&theme=tokyonight&show_icons=true" />
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
