@@ -30,5 +30,5 @@ WXML         52 mins         █░░░░░░░░░░░░░░░░
 ### 👨‍💻 GitHub统计/Open source work stats
 
 ![1677883418's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
