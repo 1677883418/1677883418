@@ -1,5 +1,5 @@
 [**English**](README.md) | [**简体中文**](README.zh_CN.md)
-### 嘿👋，I'm Zhao XinYang。
+### 嘿👋，我是赵鑫洋。
 
 - 你好啊，这里是GoodSir的秘密基地～
 
@@ -11,19 +11,19 @@
 <br/>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 88 Contributions in the Year 2021
- > 
-> 📦 27.6 kB Used in GitHub's Storage 
- > 
+>
+> 📦 27.6 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 6 Public Repositories
+>
+> 🔑 1 Private Repository
+>
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -32,7 +32,7 @@
 🌙 Night      48 commits     ███████████████░░░░░░░░░░   60.0%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
 Monday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
@@ -46,7 +46,7 @@ Sunday       11 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -71,7 +71,7 @@ Linux                    9 hrs 33 mins       ███████████�
 ```
 
 **Timeline**
-![Chart not found](https://raw.githubusercontent.com/1677883418/1677883418/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/1677883418/1677883418/master/charts/bar_graph.png)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1677883418&show_icons=true" />
 
 <br/>
@@ -79,13 +79,13 @@ Linux                    9 hrs 33 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
-### ⚡ Technologies
-- Front-end development using **HTML, Javascript, CSS**,Currently learning**Vue**
-- Backend development using **Java**
-- Architecture design for Relational Database Management Systems like **MySQL** as well as for NoSQL database systems like **Redis,MongoDB**
-- Manage and maintain cloud server using **Tencent Cloud**
+### ⚡ 技术
+- 前端开发使用 **HTML, Javascript, CSS**,正在学习**Vue**
+- 使用**Java**进行后端开发
+- 关系数据库管理系统（如 **MySQL**）以及 NoSQL 数据库系统（如 **Redis** 和 **MongoDB**）
+- 使用**腾讯云**管理和维护云服务器
 
-### 👨‍💻 Open source work stats
+### 👨‍💻 GitHub统计
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1677883418&theme=tokyonight&show_icons=true" />
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
