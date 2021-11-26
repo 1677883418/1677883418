@@ -1,8 +1,13 @@
-### Hi there 👋
+### 嘿👋，I'm Zhao XinYang。
 
 - 你好啊，这里是GoodSir的秘密基地～
 
 [![wakatime](https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg)](https://wakatime.com/@04e3f192-51ae-42c4-9648-523f599b5595)
+<a href="https://github.com/yzp-99/">
+<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -87,4 +92,3 @@ Linux                    9 hrs 33 mins       ███████████�
 
 ![1677883418's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
-
