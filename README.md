@@ -13,4 +13,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg)](https://wakatime.com/@04e3f192-51ae-42c4-9648-523f599b5595)
 
-![GoodSir's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
+![1677883418's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true)
