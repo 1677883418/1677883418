@@ -72,6 +72,7 @@ Linux                    9 hrs 33 mins       ███████████�
 **Timeline**
 ![Chart not found](https://raw.githubusercontent.com/1677883418/1677883418/master/charts/bar_graph.png) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1677883418&theme=tokyonight&show_icons=true" />
+<br/>
  Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
