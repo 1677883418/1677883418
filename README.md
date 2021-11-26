@@ -4,7 +4,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg)](https://wakatime.com/@04e3f192-51ae-42c4-9648-523f599b5595)
 
-### 📊 每周开发情况分析/Weekly development breakdown
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
