@@ -36,22 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript    5 hrs 49 mins   ████████████▒░░░░░░░░░░░░   48.81 %
-wxml_layout   1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Markdown      1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-JSON          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-C++           38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Text          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
 <br>
 <img src="http://ghchart.rshah.org/1677883418" alt="fatSheep's Github chart" />
 
