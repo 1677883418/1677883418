@@ -68,7 +68,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; height: 200px;">
 <img style="flex-basis: 48%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=1677883418&amp;show_icons=true&amp;theme=buefy" alt="fatSheepyan's Github stats"/>
-<img style="flex-basis: 30%; height: 100%;" src='https://octodex.github.com/images/hula_loop_octodex03.gif' />    
+<img style="flex-basis: 10%; height: 100%;" src='https://octodex.github.com/images/hula_loop_octodex03.gif' />    
 </div>
 
 <br>
