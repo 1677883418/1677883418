@@ -37,7 +37,7 @@
   <!--<a href="https://www.linkedin.com/in/maitong-yan-a88059148/"><img src="https://img.shields.io/badge/LinkedIn-contact%20me-blue"></a>-->
   <a href="https://blog.lystu.cn"><img src="https://img.shields.io/badge/Blog-LY'Blog-red"></a>
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https://blog.lystu.cn"/>
-  <img src="https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg"/> 
+ <a href="https://wakatime.com/@04e3f192-51ae-42c4-9648-523f599b5595"><img src="https://wakatime.com/badge/user/04e3f192-51ae-42c4-9648-523f599b5595.svg" alt="Total time coded since May 29 2021" /></a>
 </p>
 
 
