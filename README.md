@@ -61,19 +61,32 @@
 
 ### 👨‍💻 Open source work stats
 
-![fatSheepyan's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true&theme=buefy.svg)
+<!--
+![fatSheepyan's Github stats](https://github-readme-stats.vercel.app/api?username=1677883418&show_icons=true&theme=buefy)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='50%"'>
+-->
 
+<div style="display: flex; align-items: center; justify-content: space-between; height: 200px;">
+<img style="flex-basis: 48%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=1677883418&amp;show_icons=true&amp;theme=buefy" alt="fatSheepyan's Github stats"/>
+<img align='right' style="flex-basis: 30%; height: 100%;" src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='50%"'/>    
+</div>
 
 <br>
-
+<!--
 ### The Most I used Languages
+-->
 
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Reach me 
+
+- 💬 Ask me about anything.
+- 📧 <a href="mailto:zxy167788318@gmail.com">Email</a>
+- 📖 <a href = "https://blog.lystu.cn">Blog</a>
 
 <br>
 <img src="http://ghchart.rshah.org/1677883418" alt="fatSheep's Github chart" />
+
 
 
 
